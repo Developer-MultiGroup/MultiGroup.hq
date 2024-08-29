@@ -25,4 +25,9 @@
     <td align="center"><a href="https://www.linkedin.com/in/talha-berkay-eren-1b9158225//"><img src="https://media.licdn.com/dms/image/v2/D5603AQFtXFiN0w4k6g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684581326057?e=1730332800&v=beta&t=Kgis5tm5BxSq67odO6C8kOP8xpafI-3c-_izFqR2vHU" width="300px;" alt=""/><br /><sub><b>Talha Berkay Eren</b></sub></a><br /></td>
     <td align="center"><a href="https://www.linkedin.com/in/zehratunckol/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEvhX7xZbC0MQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702587433553?e=1730332800&v=beta&t=s5GPzmUB2hPLBW5LExSrsQ9boNEljX3P6jDL3AIXkls" width="300px;" alt=""/><br /><sub><b>Zehra TUNÇKOL</b></sub></a><br /></td>
   </tr>
+
+### 📌 Süreç içi incelenmesi gerekn linkler
+
+- [DMG Pioneers Weekly Tasks](https://github.com/Developer-MultiGroup/MultiGroup.hq/wiki/Team-Tasks)
+- [DMG Pioneers Task Documantations](https://github.com/Developer-MultiGroup/MultiGroup.hq/wiki/Work-Documantation)
  
