@@ -32,6 +32,6 @@
 
 # 📌 Süreç İçi İncelenmesi Gereken Linkler
 
-- [DMG Pioneers 1 Weekly Tasks](https://github.com/Developer-MultiGroup/MultiGroup.hq/wiki/Team-Tasks)
+- [DMG Pioneers 1 Weekly Tasks](https://github.com/Developer-MultiGroup/MultiGroup.hq/wiki/Pioneer-1-Team-Tasks)
 - [DMG Library | Work Documantation](https://github.com/Developer-MultiGroup/MultiGroup.hq/wiki/DMG-Library-%7C-Work-Documantation)
  
