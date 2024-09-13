@@ -10,7 +10,7 @@
 
 **MultiGroup**, yılın her dönemi kendini geliştirmek ve katıldığı etkinlikleri iyileştirmek isteyen katılımcılar için başvuru ve mülakat süreci sonucunda ekibine kapılarını açar. Bu süreçte, kendini geliştirmek isteyen adaylar, uygunluklarını değerlendirmek için Pioneer Programı'na katılırlar. Pioneer Programı, katılımcılara MultiGroup'un etkinliklerini düzenlerken nelere dikkat etmeleri gerektiğini, ekip halinde nasıl etkili bir şekilde çalışacaklarını ve bilmesi gereken diğer önemli kavramları öğretir. Bu program sayesinde katılımcılar, ekibe hızla adapte olur ve ekibin güçlü bir parçası haline gelirler. Eğer sen de bu heyecan verici sürece dahil olmak istiyorsan, başvurunu [bu linkten](https://forms.gle/eDaNGhWe98qLiiVM7) yapabilirsin. 
 
-### Pioneer'larımız ile tanışın
+### Pioneer A ekibi ile tanışın
 
 <table>
   <tr>
