@@ -30,6 +30,24 @@
   </tr>
 </table>
 
+### Pioneer B Ekibimiz ile tanışın
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/esra-eken-5a8549135/"><img src="https://media.licdn.com/dms/image/v2/C4D03AQG4bfBbXAMZag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1662569467898?e=1731542400&v=beta&t=uI9sqigkAVsL1NPJ9Qtyfy-jRr6r3XZmUcljhIS9wuI" width="300px;" alt=""/><br /><sub><b>Esra Eken</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/buket-akdemir-bukakd/"><img src="https://media.licdn.com/dms/image/v2/D5603AQGSeiGw_BBtdA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718297291774?e=1731542400&v=beta&t=DXb6wya6ssya4o3b9d91ZqgwlzPUkkTPlFtjSBl8vzI" width="300px;" alt=""/><br /><sub><b>Buket Akdemir</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/murat-mert-%C5%9Fenkaya-21a793246/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQHLenIe7BS2Dg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1704979126090?e=1726840800&v=beta&t=oaWo301ldKeyyeGACPZxA5Hx7d43VGT3xzmIF5qnqVk" width="300px;" alt=""/><br /><sub><b>Murat Mert Şenkaya</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ege-%C3%B6z%C3%A7elik-2450201b1/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQFYKnz8XbM9Nw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1680526394905?e=1726840800&v=beta&t=CAaTuC0Bu0KPiPeNLk4IR4ehAZYEEx52jjxzicluFUc" width="300px;" alt=""/><br /><sub><b>Ege Özçelik
+</b></sub></a><br /></td>
+     </tr>
+    <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/sema-topcu-7a73a91b8/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGhPg0-YzxK_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1665770687133?e=1731542400&v=beta&t=1LIu7bZ7Ga8lg5XNiTzBvsD20LyLgMtXE1bEN1W_1I0" width="300px;" alt=""/><br /><sub><b>Sema Topcu</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/melih-baha-s%C3%B6b%C3%BCcoval%C4%B1-8339931b3/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEp8SLSHI9hPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1665769176412?e=1731542400&v=beta&t=oA_7zvjOga6D5jBhwjhuAJeQzppGW55lUYLb15C7HKI" width="300px;" alt=""/><br /><sub><b>Melih Baha Söbücovalı</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ozlembasabakar/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQGVdtdE4wIp1Q/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1726138192383?e=1726840800&v=beta&t=LcI4KowYpLgFgyIEgtPFJdo2v_HXF-z9rtA3hDwdia4" width="300px;" alt=""/><br /><sub><b>Özlem Başabakar</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQGPSArFrAp5mw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1702326256396?e=1726840800&v=beta&t=VHt9-Fz1-A3WFK896tQMk5TkpGAylzgI58NFXzr1X8U" width="300px;" alt=""/><br /><sub><b>Engin Can Yakar</b></sub></a><br /></td>
+  </tr>
+   <tr>
+</table>
+
 # 📌 Süreç İçi İncelenmesi Gereken Linkler
 
 - [DMG Pioneers A Weekly Tasks](https://github.com/Developer-MultiGroup/MultiGroup.hq/wiki/Pioneer-A-Team-Tasks)
