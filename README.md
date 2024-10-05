@@ -46,7 +46,7 @@
     <td align="center"><a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQGPSArFrAp5mw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1702326256396?e=1728720000&v=beta&t=KBtlIylQIcSfzIvdKUHwoz2pp-puZtUKi7Mrjv1eyt4" width="300px;" alt=""/><br /><sub><b>Engin Can Yakar</b></sub></a><br /></td>
     </tr>
    <tr>
-     <td align="center"><a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/"><img src="https://media.licdn.com/dms/image/v2/C4E03AQEUFIHPG572Xw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646651738314?e=1733356800&v=beta&t=YEXQ79Vet9Jv7uo9E4mnmOF9eIwmY1rb6G6BGPDH29U" width="300px;" alt=""/><br /><sub><b>Semanur Gökırmak</b></sub></a><br /></td>
+     <td align="center"><a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/"><img src="https://media.licdn.com/dms/image/v2/C4E03AQEUFIHPG572Xw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646651738314?e=1733356800&v=beta&t=YEXQ79Vet9Jv7uo9E4mnmOF9eIwmY1rb6G6BGPDH29U" width="300px;" alt=""/><br /><sub><b>Zeynep Dilara Koru</b></sub></a><br /></td>
      </tr>
 </table>
 
