@@ -39,7 +39,11 @@
     </tr>
    <tr>
    <td align="center"><a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/"><img src="https://media.licdn.com/dms/image/v2/C4E03AQEUFIHPG572Xw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646651738314?e=1738800000&v=beta&t=jVqrMH1ozy58_3lVT3GJJerVJ7sdIC6SQoPJgUSMSt0" width="300px;" alt=""/><br /><sub><b>Zeynep Dilara Koru</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQGPSArFrAp5mw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1702326256396?e=1734159600&v=beta&t=3qnZeuyaC37XHkTglG1pjFSVMNwfxVZ9JcBRWqxbVGM" width="300px;" alt=""/><br /><sub><b>Engin Can Yakar</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQFcfG9m68olWg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1733573951837?e=1734541200&v=beta&t=sROVFAIQsSCRBvfGXC0TME-mNR3t4KxggpOzYlpoPPc" width="300px;" alt=""/><br /><sub><b>Engin Can Yakar</b></sub></a><br /></td>
+     <td align="center"><a href="https://www.linkedin.com/in/elif-%C3%A7a%C4%9F%C4%B1l/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHYJ_KFl5Q03g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732226250408?e=1739404800&v=beta&t=Ugj1Ow51TqMQXVspZDY0LyLAhHE8WdecAdQ-nBIzYUg" width="300px;" alt=""/><br /><sub><b>Elif Çağıl</b></sub></a><br /></td>
+    </tr>
+    <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/irem-aral-b6054517a/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGnCUWXEbUJKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730903427028?e=1739404800&v=beta&t=RKz50-IBR3bbF7FSAJyL_mQZaso5L_9Mq58XfjJsHvQ" width="300px;" alt=""/><br /><sub><b>İrem Aral</b></sub></a><br /></td>
     </tr>
 </table>
 
