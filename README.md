@@ -32,7 +32,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/zehratunckol/">
-        <img src="./images/pioneer-a/zehra-tunckol.png" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
+        <img src="./images/pioneer-a/zehra-tunckol.jpeg" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
         <br />
         <sub><b>Zehra TUNÇKOL</b></sub>
       </a>
