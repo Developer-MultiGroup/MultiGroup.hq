@@ -89,7 +89,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/murat-mert-%C5%9Fenkaya-21a793246/">
-        <img src="https://media.licdn.com/dms/image/v2/D4D35AQHLenIe7BS2Dg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1704979126090?e=1734159600&v=beta&t=qxo4oEz0G7Zvd7K5LUwSBV3ZVDYfvkVVXd75Y9rC0SE" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
+        <img src="./images/pioneer-b/murat-mert-senkaya.jpeg" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
         <br />
         <sub><b>Murat Mert Şenkaya</b></sub>
       </a>
@@ -125,7 +125,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/">
-        <img src="https://media.licdn.com/dms/image/v2/D4D35AQFcfG9m68olWg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1733573951837?e=1734541200&v=beta&t=sROVFAIQsSCRBvfGXC0TME-mNR3t4KxggpOzYlpoPPc" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
+        <img src="./images/pioneer-b/engin-can-yakar.jpeg" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
         <br />
         <sub><b>Engin Can Yakar</b></sub>
       </a>
@@ -151,7 +151,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/irem-aral-b6054517a/">
-        <img src="./images/pioneer-b/iram-aral.png" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
+        <img src="./images/pioneer-b/irem-aral.jpeg" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;" alt=""/>
         <br />
         <sub><b>İrem Aral</b></sub>
       </a>
