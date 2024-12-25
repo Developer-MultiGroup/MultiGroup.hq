@@ -33,7 +33,7 @@
     <td align="center"><a href="https://www.linkedin.com/in/murat-mert-%C5%9Fenkaya-21a793246/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQHLenIe7BS2Dg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1704979126090?e=1734159600&v=beta&t=qxo4oEz0G7Zvd7K5LUwSBV3ZVDYfvkVVXd75Y9rC0SE" width="300px;" alt=""/><br /><sub><b>Murat Mert Şenkaya</b></sub></a><br /></td>
      </tr>
     <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/sema-topcu-7a73a91b8/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEoWnUgtCNzIA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729805337348?e=1735776000&v=beta&t=56by5nxlgtWWr64qrc0jmqAaLrqD-QqcMt_8novc0OA" width="300px;" alt=""/><br /><sub><b>Sema Topcu</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/irem-aral-b6054517a/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGnCUWXEbUJKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730903427028?e=1739404800&v=beta&t=RKz50-IBR3bbF7FSAJyL_mQZaso5L_9Mq58XfjJsHvQ" width="300px;" alt=""/><br /><sub><b>İrem Aral</b></sub></a><br /></td>
     <td align="center"><a href="https://www.linkedin.com/in/melih-baha-s%C3%B6b%C3%BCcoval%C4%B1-8339931b3/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQEp8SLSHI9hPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1665769176412?e=1737590400&v=beta&t=2NSmTWDYOKxQBtxqi_L8B2EmRlrdJwPp7MnSduA5VjY" width="300px;" alt=""/><br /><sub><b>Melih Baha Söbücovalı</b></sub></a><br /></td>
     <td align="center"><a href="https://www.linkedin.com/in/ozlembasabakar/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHE19VTMIsnVw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679145799562?e=1736380800&v=beta&t=rOQb7pniJNoQftOHbaY4PYGadHoMQdWpRIHESoeAjCQ" width="300px;" alt=""/><br /><sub><b>Özlem Başabakar</b></sub></a><br /></td>
     </tr>
@@ -41,9 +41,6 @@
    <td align="center"><a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/"><img src="https://media.licdn.com/dms/image/v2/C4E03AQEUFIHPG572Xw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1646651738314?e=1738800000&v=beta&t=jVqrMH1ozy58_3lVT3GJJerVJ7sdIC6SQoPJgUSMSt0" width="300px;" alt=""/><br /><sub><b>Zeynep Dilara Koru</b></sub></a><br /></td>
     <td align="center"><a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/"><img src="https://media.licdn.com/dms/image/v2/D4D35AQFcfG9m68olWg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1733573951837?e=1734541200&v=beta&t=sROVFAIQsSCRBvfGXC0TME-mNR3t4KxggpOzYlpoPPc" width="300px;" alt=""/><br /><sub><b>Engin Can Yakar</b></sub></a><br /></td>
      <td align="center"><a href="https://www.linkedin.com/in/elif-%C3%A7a%C4%9F%C4%B1l/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQHYJ_KFl5Q03g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732226250408?e=1739404800&v=beta&t=Ugj1Ow51TqMQXVspZDY0LyLAhHE8WdecAdQ-nBIzYUg" width="300px;" alt=""/><br /><sub><b>Elif Çağıl</b></sub></a><br /></td>
-    </tr>
-    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/irem-aral-b6054517a/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGnCUWXEbUJKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730903427028?e=1739404800&v=beta&t=RKz50-IBR3bbF7FSAJyL_mQZaso5L_9Mq58XfjJsHvQ" width="300px;" alt=""/><br /><sub><b>İrem Aral</b></sub></a><br /></td>
     </tr>
 </table>
 
