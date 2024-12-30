@@ -98,14 +98,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/melih-baha-s%C3%B6b%C3%BCcoval%C4%B1-8339931b3/">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQEp8SLSHI9hPA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1665769176412?e=1737590400&v=beta&t=2NSmTWDYOKxQBtxqi_L8B2EmRlrdJwPp7MnSduA5VjY" width="300" alt=""/>
-        <br />
-        <sub><b>Melih Baha Söbücovalı</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
       <a href="https://www.linkedin.com/in/ozlembasabakar/">
         <img src="./images/pioneer-b/ozlem-basabakar.png" width="300" alt=""/>
         <br />
@@ -121,8 +113,6 @@
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/">
         <img src="./images/pioneer-b/engin-can-yakar.jpeg" width="300" alt=""/>
@@ -131,6 +121,8 @@
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/furkanunsalan">
         <img src="./images/pioneer-b/furkan-unsalan.jpg" width="300" alt=""/>
@@ -147,13 +139,21 @@
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/irem-aral-b6054517a/">
         <img src="./images/pioneer-b/irem-aral.jpeg" width="300" alt=""/>
         <br />
         <sub><b>İrem Aral</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/emirhan-akdemir-ea/">
+        <img src="./images/pioneer-b/emirhan-akdemir.jpg" width="300" alt=""/>
+        <br />
+        <sub><b>Emirhan Akdemir</b></sub>
       </a>
       <br />
     </td>
