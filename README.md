@@ -15,18 +15,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/enesfehmimanan/">
-        <img src="./images/pioneer-a/enes-fehmi-manan.png" width="300" alt=""/>
+      <a href="https://www.linkedin.com/in/talha-berkay-eren-1b9158225/">
+        <img src="./images/pioneer-a/talha-berkay-eren.png" width="300" alt=""/>
         <br />
-        <sub><b>Enes Fehmi Manan</b></sub>
+        <sub><b>Talha Berkay Eren</b></sub>
       </a>
       <br />
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/tahafurkansen/">
-        <img src="./images/pioneer-a/taha-furkan-sen.jpeg" width="300" alt=""/>
+      <a href="https://www.linkedin.com/in/buket-akdemir-bukakd/">
+        <img src="./images/pioneer-b/buket-akdemir.png" width="300" alt=""/>
         <br />
-        <sub><b>Taha Furkan Şen</b></sub>
+        <sub><b>Buket Akdemir</b></sub>
       </a>
       <br />
     </td>
@@ -41,63 +41,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kadir-%C3%A7etin-961124189/">
-        <img src="./images/pioneer-a/kadir-cetin.png" width="300" alt=""/>
-        <br />
-        <sub><b>Kadir Çetin</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/aysunkuccuk/">
-        <img src="./images/pioneer-a/aysun-kuccuk.jpeg" width="300" alt=""/>
-        <br />
-        <sub><b>Aysun Küççük</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/talha-berkay-eren-1b9158225/">
-        <img src="./images/pioneer-a/talha-berkay-eren.png" width="300" alt=""/>
-        <br />
-        <sub><b>Talha Berkay Eren</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
-## Pioneer B Ekibimiz ile Tanışın
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/esra-eken-5a8549135/">
-        <img src="./images/pioneer-b/esra-eken.jpeg" width="300" alt="">
-        <br />
-        <sub><b>Esra Eken</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/buket-akdemir-bukakd/">
-        <img src="./images/pioneer-b/buket-akdemir.png" width="300" alt=""/>
-        <br />
-        <sub><b>Buket Akdemir</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/murat-mert-%C5%9Fenkaya-21a793246/">
-        <img src="./images/pioneer-b/murat-mert-senkaya.jpeg" width="300" alt=""/>
-        <br />
-        <sub><b>Murat Mert Şenkaya</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://www.linkedin.com/in/ozlembasabakar/">
         <img src="./images/pioneer-b/ozlem-basabakar.png" width="300" alt=""/>
         <br />
@@ -105,24 +48,6 @@
       </a>
       <br />
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/">
-        <img src="./images/pioneer-b/zeynep-dilara-koru.png" width="300" alt=""/>
-        <br />
-        <sub><b>Zeynep Dilara Koru</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/">
-        <img src="./images/pioneer-b/engin-can-yakar.jpeg" width="300" alt=""/>
-        <br />
-        <sub><b>Engin Can Yakar</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/furkanunsalan">
         <img src="./images/pioneer-b/furkan-unsalan.jpg" width="300" alt=""/>
@@ -139,6 +64,8 @@
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/irem-aral-b6054517a/">
         <img src="./images/pioneer-b/irem-aral.jpeg" width="300" alt=""/>
@@ -147,13 +74,86 @@
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/emirhan-akdemir-ea/">
         <img src="./images/pioneer-b/emirhan-akdemir.jpg" width="300" alt=""/>
         <br />
         <sub><b>Emirhan Akdemir</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
+
+## Pioneer B Ekibimiz ile Tanışın
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/tahafurkansen/">
+        <img src="./images/pioneer-a/taha-furkan-sen.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Taha Furkan Şen</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/enesfehmimanan/">
+        <img src="./images/pioneer-a/enes-fehmi-manan.png" width="300" alt=""/>
+        <br />
+        <sub><b>Enes Fehmi Manan</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kadir-%C3%A7etin-961124189/">
+        <img src="./images/pioneer-a/kadir-cetin.png" width="300" alt=""/>
+        <br />
+        <sub><b>Kadir Çetin</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>  
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/esra-eken-5a8549135/">
+        <img src="./images/pioneer-b/esra-eken.jpeg" width="300" alt="">
+        <br />
+        <sub><b>Esra Eken</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/murat-mert-%C5%9Fenkaya-21a793246/">
+        <img src="./images/pioneer-b/murat-mert-senkaya.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Murat Mert Şenkaya</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aysunkuccuk/">
+        <img src="./images/pioneer-a/aysun-kuccuk.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Aysun Küççük</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/">
+        <img src="./images/pioneer-b/zeynep-dilara-koru.png" width="300" alt=""/>
+        <br />
+        <sub><b>Zeynep Dilara Koru</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/">
+        <img src="./images/pioneer-b/engin-can-yakar.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Engin Can Yakar</b></sub>
       </a>
       <br />
     </td>
