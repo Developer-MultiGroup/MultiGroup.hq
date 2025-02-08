@@ -3,7 +3,7 @@
 ![Trendyol Event (12)](https://github.com/user-attachments/assets/7af9cccf-5cf4-4b31-b820-b8ffc2038c38)
 
 
-## Sık Kullanılan Linkler
+## 📌 Sık Kullanılan Linkler
 
 📌 [Ekip Task Takip Listesi](https://docs.google.com/document/d/1HvL-RKqkaRil2z9McT4zEIfuKKygwDFn0OHstmp3iuk/edit?usp=sharing) : Haftalık tasklerimizi takip ettiğimiz genel dökümantasyon <br>
 📌 [Ekip Mastersheet'i](https://docs.google.com/spreadsheets/d/15J4oTF7s71K0_f5YHKwr7Dg08XgrM3tfxybiID6Y-hE/edit?usp=sharing) : Ekip genel bilgilerinin takip edildiği takip ettiğimiz genel dökümantasyon <br>
