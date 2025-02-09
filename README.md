@@ -15,14 +15,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/talha-berkay-eren-1b9158225/">
-        <img src="./images/pioneer-a/talha-berkay-eren.png" width="300" alt=""/>
-        <br />
-        <sub><b>Talha Berkay Eren</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
       <a href="https://www.linkedin.com/in/buket-akdemir-bukakd/">
         <img src="./images/pioneer-b/buket-akdemir.png" width="300" alt=""/>
         <br />
@@ -38,8 +30,6 @@
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/ozlembasabakar/">
         <img src="./images/pioneer-b/ozlem-basabakar.png" width="300" alt=""/>
@@ -48,6 +38,8 @@
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/furkanunsalan">
         <img src="./images/pioneer-b/furkan-unsalan.jpg" width="300" alt=""/>
@@ -64,8 +56,6 @@
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/irem-aral-b6054517a/">
         <img src="./images/pioneer-b/irem-aral.jpeg" width="300" alt=""/>
@@ -74,6 +64,8 @@
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/emirhan-akdemir-ea/">
         <img src="./images/pioneer-b/emirhan-akdemir.jpg" width="300" alt=""/>
@@ -154,6 +146,32 @@
         <img src="./images/pioneer-b/engin-can-yakar.jpeg" width="300" alt=""/>
         <br />
         <sub><b>Engin Can Yakar</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/">
+        <img src="./images/pioneer-b/kübra-aykol.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Kübra Aykol</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/furkan-t%C3%BCz%C3%BCn/">
+        <img src="./images/pioneer-b/furkan-tuzun.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Furkan Tüzün</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/esra-kellecii/">
+        <img src="./images/pioneer-b/esra-kelleci.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>Esra Kelleci</b></sub>
       </a>
       <br />
     </td>
