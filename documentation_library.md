@@ -41,7 +41,10 @@
 🛠️ [Data Science Conference 2025](https://docs.google.com/spreadsheets/d/1NgChv5VPOzTiBvB0LXsRPlj_NYK04GRCtwod29WHlac/edit?usp=sharing) -**_Serkan Alc_** <br>
 🛠️ [Web Developer Summit 2025](https://docs.google.com/spreadsheets/d/1FIOvRO417lrnRddTAsNbNw2qVhXWY291CT3fCIXcSUo/edit?usp=sharing) -**_Serkan Alc_** <br>
 🛠️ [Mobile Developer Conference 2025](https://docs.google.com/spreadsheets/d/1-GC90i-YYEz-fQMLNJTcydNdWzQtftlX2anWyyR0xDc/edit?usp=sharing) -**_Serkan Alc_** <br>
-🛠️ [Mobile Developer Summit 2025](https://docs.google.com/spreadsheets/d/1umo9Vr5RtN034rp5PYTQ3aJh-t70HzpbtNxfJDWPx60/edit?usp=sharing) -**_Serkan Alc_** <br>
+🛠️ [Mobile Developer Meetup 2025](https://docs.google.com/spreadsheets/d/1umo9Vr5RtN034rp5PYTQ3aJh-t70HzpbtNxfJDWPx60/edit?usp=sharing) -**_Serkan Alc_** <br>
+🛠️ [Mobile Developer Summit 2024](https://docs.google.com/spreadsheets/d/1z9FRAFLUwuOsP_P9pcqKqzoasQS1q-YrLXQ6sFlq_UQ/edit?usp=sharing) -**_Serkan Alc_** <br>
+🛠️ [Data Science Conference 2024](https://docs.google.com/spreadsheets/d/17P6Bd4Sao53ZWu8CQnGEVTT5tr-1EF7sJ5217tnYtRc/edit?usp=sharing) -**_Serkan Alc_** <br>
+
 ### ✏️ Online Etkinlik Planlama Tabloları:
 ✏️ [SohbetMuhabbet](https://docs.google.com/spreadsheets/d/1wEZltG_gQvw6ePULMbdH7GOQ0xdAMGhh1hY_z1-0yMM/edit?usp=sharing) | -**_Serkan Alc_** <br>
 ✏️ [DataCommit](https://docs.google.com/spreadsheets/d/1guyH5tDv4uOjcIbTYNVooQD37Oq82BnRUGGothvbsAc/edit?usp=sharing) | -**_Enes Manan_** <br>
