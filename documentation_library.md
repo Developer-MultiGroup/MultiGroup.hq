@@ -44,8 +44,9 @@
 🛠️ [Mobile Developer Meetup 2025](https://docs.google.com/spreadsheets/d/1umo9Vr5RtN034rp5PYTQ3aJh-t70HzpbtNxfJDWPx60/edit?usp=sharing) -**_Serkan Alc_** <br>
 🛠️ [Mobile Developer Summit 2024](https://docs.google.com/spreadsheets/d/1z9FRAFLUwuOsP_P9pcqKqzoasQS1q-YrLXQ6sFlq_UQ/edit?usp=sharing) -**_Serkan Alc_** <br>
 🛠️ [Data Science Conference 2024](https://docs.google.com/spreadsheets/d/17P6Bd4Sao53ZWu8CQnGEVTT5tr-1EF7sJ5217tnYtRc/edit?usp=sharing) -**_Serkan Alc_** <br>
-
-### ✏️ Online Etkinlik Planlama Tabloları:
-✏️ [SohbetMuhabbet](https://docs.google.com/spreadsheets/d/1wEZltG_gQvw6ePULMbdH7GOQ0xdAMGhh1hY_z1-0yMM/edit?usp=sharing) | -**_Serkan Alc_** <br>
-✏️ [DataCommit](https://docs.google.com/spreadsheets/d/1guyH5tDv4uOjcIbTYNVooQD37Oq82BnRUGGothvbsAc/edit?usp=sharing) | -**_Enes Manan_** <br>
+### 💻 Online Etkinlik Planlama Tabloları:
+💻 [SohbetMuhabbet](https://docs.google.com/spreadsheets/d/1wEZltG_gQvw6ePULMbdH7GOQ0xdAMGhh1hY_z1-0yMM/edit?usp=sharing) | -**_Serkan Alc_** <br>
+💻 [DataCommit](https://docs.google.com/spreadsheets/d/1guyH5tDv4uOjcIbTYNVooQD37Oq82BnRUGGothvbsAc/edit?usp=sharing) | -**_Enes Manan_** <br>
+### ✏️ Bootcamp Etkinlik Planlama Tabloları:
+✏️ [Gemini API by Google Course](https://docs.google.com/spreadsheets/d/1HPS5y0nI-mxdFkGhXbsV-Qsan_sQyKuIXjS4pZSldFc/edit?usp=sharing) | -**_Serkan Alc_** <br>
 
