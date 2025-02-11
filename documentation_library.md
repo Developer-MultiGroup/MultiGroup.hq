@@ -38,7 +38,7 @@
 
 ## 📈 Tablolar
 ### ⚙️ Genel Planlama Tabloları:
-⚙️ [Ekip Genel Planlama Tablosu](https://docs.google.com/spreadsheets/d/15J4oTF7s71K0_f5YHKwr7Dg08XgrM3tfxybiID6Y-hE/edit?usp=sharing) -**_Buket Akdemir_** <br>
+⚙️ [Ekip Genel Planlama Tablosu](https://docs.google.com/spreadsheets/d/15J4oTF7s71K0_f5YHKwr7Dg08XgrM3tfxybiID6Y-hE/edit?usp=sharing) -**_Serkan Alc_** <br>
 ⚙️ [Sosyal Medya Paylaşım Planlama Tablosu](https://docs.google.com/spreadsheets/d/1gD-qHmLhrsaZ4_mit6sl-1RrOdkGOBkjTakMr0zHT_8/edit?usp=sharing) -**_Buket Akdemir_** <br>
 ⚙️ [Sosyal Medya Metrik Takip Tablosu](https://docs.google.com/spreadsheets/d/1pT1vXPQ06ipwDKep_0-XIq61YIO--1AjNykvyi62wUQ/edit?usp=sharing) -**_Buket Akdemir_** <br>
 ### 🛠️ Yüzyüze Etkinlik Planlama Tabloları:
