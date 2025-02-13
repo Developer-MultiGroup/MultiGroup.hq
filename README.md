@@ -150,16 +150,6 @@
       <br />
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/engin-can-yakar-17394225a/">
-        <img src="./images/pioneer-b/kübra-aykol.jpeg" width="300" alt=""/>
-        <br />
-        <sub><b>Kübra Aykol</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://www.linkedin.com/in/furkan-t%C3%BCz%C3%BCn/">
         <img src="./images/pioneer-b/furkan-tuzun.jpeg" width="300" alt=""/>
         <br />
@@ -167,6 +157,8 @@
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/esra-kellecii/">
         <img src="./images/pioneer-b/esra-kelleci.jpeg" width="300" alt=""/>
