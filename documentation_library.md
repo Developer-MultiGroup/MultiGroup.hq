@@ -42,6 +42,7 @@
 ⚙️ [Sosyal Medya Paylaşım Planlama Tablosu](https://docs.google.com/spreadsheets/d/1gD-qHmLhrsaZ4_mit6sl-1RrOdkGOBkjTakMr0zHT_8/edit?usp=sharing) -**_Buket Akdemir_** <br>
 ⚙️ [Sosyal Medya Metrik Takip Tablosu](https://docs.google.com/spreadsheets/d/1pT1vXPQ06ipwDKep_0-XIq61YIO--1AjNykvyi62wUQ/edit?usp=sharing) -**_Buket Akdemir_** <br>
 ⚙️ ["Social Snowballer" Takip Tablosu](https://docs.google.com/spreadsheets/d/1H5V4StVJxm_HiCjoDvSa5Yjwk0EdlIjVTHxhS5nsIIk/edit?usp=sharing) -**_Serkan Alc_** <br>
+⚙️ ["Etkinlik Alanı Öneri Tablosu](https://docs.google.com/spreadsheets/d/1m-MGO2XnBSbGYeweKva1-Y5yQGdzZTZBqtCP-Z901Bc/edit?usp=sharing) -**_Buket Akdemir_** <br>
 ### 🛠️ Yüzyüze Etkinlik Planlama Tabloları:
 🛠️ [Data Science Conference 2025](https://docs.google.com/spreadsheets/d/1NgChv5VPOzTiBvB0LXsRPlj_NYK04GRCtwod29WHlac/edit?usp=sharing) -**_Serkan Alc_** <br>
 🛠️ [Web Developer Summit 2025](https://docs.google.com/spreadsheets/d/1FIOvRO417lrnRddTAsNbNw2qVhXWY291CT3fCIXcSUo/edit?usp=sharing) -**_Serkan Alc_** <br>
