@@ -15,10 +15,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/buket-akdemir-bukakd/">
-        <img src="./images/pioneer-b/buket-akdemir.png" width="300" alt=""/>
+      <a href="https://www.linkedin.com/in/enesfehmimanan/">
+        <img src="./images/pioneer-a/enes-fehmi-manan.png" width="300" alt=""/>
         <br />
-        <sub><b>Buket Akdemir</b></sub>
+        <sub><b>Enes Fehmi Manan</b></sub>
       </a>
       <br />
     </td>
@@ -32,7 +32,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/ozlembasabakar/">
-        <img src="./images/pioneer-b/ozlem-basabakar.png" width="300" alt=""/>
+        <img src="./images/pioneer-a/ozlem-basabakar.png" width="300" alt=""/>
         <br />
         <sub><b>Özlem Başabakar</b></sub>
       </a>
@@ -42,7 +42,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/furkanunsalan">
-        <img src="./images/pioneer-b/furkan-unsalan.jpg" width="300" alt=""/>
+        <img src="./images/pioneer-a/furkan-unsalan.jpg" width="300" alt=""/>
         <br />
         <sub><b>Furkan Ünsalan</b></sub>
       </a>
@@ -50,7 +50,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/elif-%C3%A7a%C4%9F%C4%B1l/">
-        <img src="./images/pioneer-b/elif-cagil.jpeg" width="300" alt=""/>
+        <img src="./images/pioneer-a/elif-cagil.jpeg" width="300" alt=""/>
         <br />
         <sub><b>Elif Çağıl</b></sub>
       </a>
@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/irem-aral-b6054517a/">
-        <img src="./images/pioneer-b/irem-aral.jpeg" width="300" alt=""/>
+        <img src="./images/pioneer-a/irem-aral.jpeg" width="300" alt=""/>
         <br />
         <sub><b>İrem Aral</b></sub>
       </a>
@@ -68,7 +68,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/emirhan-akdemir-ea/">
-        <img src="./images/pioneer-b/emirhan-akdemir.jpg" width="300" alt=""/>
+        <img src="./images/pioneer-a/emirhan-akdemir.jpg" width="300" alt=""/>
         <br />
         <sub><b>Emirhan Akdemir</b></sub>
       </a>
@@ -82,31 +82,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/tahafurkansen/">
-        <img src="./images/pioneer-a/taha-furkan-sen.jpeg" width="300" alt=""/>
+      <a href="https://www.linkedin.com/in/buket-akdemir-bukakd/">
+        <img src="./images/pioneer-b/buket-akdemir.png" width="300" alt=""/>
         <br />
-        <sub><b>Taha Furkan Şen</b></sub>
+        <sub><b>Buket Akdemir</b></sub>
       </a>
       <br />
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/enesfehmimanan/">
-        <img src="./images/pioneer-a/enes-fehmi-manan.png" width="300" alt=""/>
-        <br />
-        <sub><b>Enes Fehmi Manan</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/kadir-%C3%A7etin-961124189/">
-        <img src="./images/pioneer-a/kadir-cetin.png" width="300" alt=""/>
-        <br />
-        <sub><b>Kadir Çetin</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>  
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/esra-eken-5a8549135/">
         <img src="./images/pioneer-b/esra-eken.jpeg" width="300" alt="">
@@ -123,16 +105,16 @@
       </a>
       <br />
     </td>
+  </tr>  
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/aysunkuccuk/">
-        <img src="./images/pioneer-a/aysun-kuccuk.jpeg" width="300" alt=""/>
+        <img src="./images/pioneer-b/aysun-kuccuk.jpeg" width="300" alt=""/>
         <br />
         <sub><b>Aysun Küççük</b></sub>
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/zeynep-dilara-koru-961a061b9/">
         <img src="./images/pioneer-b/zeynep-dilara-koru.png" width="300" alt=""/>
@@ -149,6 +131,8 @@
       </a>
       <br />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/furkan-t%C3%BCz%C3%BCn/">
         <img src="./images/pioneer-b/furkan-tuzun.jpeg" width="300" alt=""/>
@@ -157,13 +141,19 @@
       </a>
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/esra-kellecii/">
         <img src="./images/pioneer-b/esra-kelleci.jpeg" width="300" alt=""/>
         <br />
         <sub><b>Esra Kelleci</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/zehra-tahta-6117252a4/">
+        <img src="./images/pioneer-b/zehra-tahta.jpeg" width="300" alt=""/>
+        <br />
+        <sub><b>zehra Tahta</b></sub>
       </a>
       <br />
     </td>
