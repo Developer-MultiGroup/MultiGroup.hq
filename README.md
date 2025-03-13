@@ -153,7 +153,7 @@
       <a href="https://www.linkedin.com/in/zehra-tahta-6117252a4/">
         <img src="./images/pioneer-b/zehra-tahta.jpeg" width="300" alt=""/>
         <br />
-        <sub><b>zehra Tahta</b></sub>
+        <sub><b>Zehra Tahta</b></sub>
       </a>
       <br />
     </td>
