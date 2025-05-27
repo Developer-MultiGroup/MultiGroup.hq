@@ -55,4 +55,5 @@
 💻 [DataCommit](https://docs.google.com/spreadsheets/d/1guyH5tDv4uOjcIbTYNVooQD37Oq82BnRUGGothvbsAc/edit?usp=sharing) | -**_Enes Manan_** <br>
 ### ✏️ Bootcamp Etkinlik Planlama Tabloları:
 ✏️ [Gemini API by Google Course](https://docs.google.com/spreadsheets/d/1HPS5y0nI-mxdFkGhXbsV-Qsan_sQyKuIXjS4pZSldFc/edit?usp=sharing) | -**_Serkan Alc_** <br>
+✏️ [Android Blast Off JEtpack Compose Camp](https://docs.google.com/spreadsheets/d/1Ry4_Be-GAguVd_Lfc-WRL0IRmOlZ6l6R73X4qhcCgdU/edit?usp=sharing) | -**_Serkan Alc_** <br>
 
