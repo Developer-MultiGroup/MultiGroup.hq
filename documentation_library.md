@@ -19,8 +19,8 @@
 ### 📚 Ekip Bilgilendirme Dökümanları:
 📚 [Zero To Hero Event Organizasyonu](https://docs.google.com/document/d/1yW4W32escudDhpf2w8kTGHnpGNNvF7Luk1yguCcBwG4/edit?usp=sharing) | -**_Serkan Alc_**<br>
 📚 [SMART Hedefler](https://docs.google.com/document/d/1ISAKmUPG282N0-WtI3OVvn4OHTELa-_fwfq0ww62lws/edit?usp=sharing) | -**_Serkan Alc_**  <br>
-📚 [Speaker Ranking Criteria](https://docs.google.com/document/d/1afvab4uSKUMZ6w3-vItN8mf7W-EB1gQtxUC93eAik88/edit?usp=sharing) | -**_Serkan Alc_**
-📚 [Speaker Participation Criteria](https://docs.google.com/document/d/1rVjZ-NhxEtfruIoUe6vP5_iunhkpzHh1cxAalghs3O4/edit?usp=sharing) | -**_Serkan Alc_**
+📚 [Speaker Ranking Criteria](https://docs.google.com/document/d/1afvab4uSKUMZ6w3-vItN8mf7W-EB1gQtxUC93eAik88/edit?usp=sharing) | -**_Serkan Alc_** <br>
+📚 [Speaker Participation Criteria](https://docs.google.com/document/d/1rVjZ-NhxEtfruIoUe6vP5_iunhkpzHh1cxAalghs3O4/edit?usp=sharing) | -**_Serkan Alc_** <br>
 
 <br>
 ### ⚙️ Platform Kullanım Dökümanları:
