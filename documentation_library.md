@@ -16,15 +16,16 @@
 🌟 [Data Commit Documantation](https://docs.google.com/document/d/12r34bS_7uMohBaAVPFCFlOGslyYStAlUBth_Vc0zFzY/edit?usp=sharing) | -**_Enes Manan_** <br>
 🌟 [Zero to Store | iOS Accelerator Program](https://docs.google.com/document/d/1aUQiwnMV-QPH9me2APrCNns2TSTvv8nIJPhI1oA-x_g/edit?usp=sharing) | -**_Gizem But_** <br>
 🌟 [HR Break Documantation](https://docs.google.com/document/d/1Sc3MKIsjXwhiwKsJgZ7ZOwuoDyYMeAM8E3Yn3HmYGlY/edit?usp=sharing) | -**_Aysun Küççük_** <br>
+🌟 [MultiGroup Hackathon Tanıtım Dökümanı 2025](https://docs.google.com/document/d/145pjXYBt1CVAO2CvQH8y_fObQoOzls93pr-XB27RNaU/edit?usp=sharing) | -**_Zerrin Ayaz_** <br>
 ### 📚 Ekip Bilgilendirme Dökümanları:
 📚 [Zero To Hero Event Organizasyonu](https://docs.google.com/document/d/1yW4W32escudDhpf2w8kTGHnpGNNvF7Luk1yguCcBwG4/edit?usp=sharing) | -**_Serkan Alc_**<br>
 📚 [SMART Hedefler](https://docs.google.com/document/d/1ISAKmUPG282N0-WtI3OVvn4OHTELa-_fwfq0ww62lws/edit?usp=sharing) | -**_Serkan Alc_**  <br>
 📚 [Speaker Ranking Criteria](https://docs.google.com/document/d/1afvab4uSKUMZ6w3-vItN8mf7W-EB1gQtxUC93eAik88/edit?usp=sharing) | -**_Serkan Alc_** <br>
 📚 [Speaker Participation Criteria](https://docs.google.com/document/d/1rVjZ-NhxEtfruIoUe6vP5_iunhkpzHh1cxAalghs3O4/edit?usp=sharing) | -**_Serkan Alc_** <br>
 
-<br>
 ### ⚙️ Platform Kullanım Dökümanları:
-⚙️ [Discord Moderation Documantation](https://docs.google.com/document/d/1x0zbZdkNtby_YTTVT9Cw4T_RYq1UkEUhrIA8FT_-ah0/edit?usp=sharing) | -**_Serkan Alc_** <br>
+
+⚙️ [Discord Moderation Documantation](https://docs.google.com/document/d/1x0zbZdkNtby_YTTVT9Cw4T_RYq1UkEUhrIA8FT_-ah0/edit?usp=sharin) | -**_Serkan Alc_** <br>
 ⚙️ [DMG Data Awesome Repo Documantation](https://docs.google.com/document/d/1T85LKqIoUOGYQD_JZxhtZINT9bS99x1ZDuhjfdshzGo/edit?usp=sharing) | -**_Enes Manan_** <br>
 ⚙️ [DMG Whatsapp Community Documantation](https://docs.google.com/document/d/1S7ZZ5pMRdHE3OJGck9NgvKaBkPx7RBfQ5xTXt5gp9A0/edit?usp=sharing) | -**_Serkan Alc_** <br>
 ### <a name="1"></a> 📨 Mail Taslakları:
